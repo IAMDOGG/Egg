@@ -1,0 +1,8 @@
+C:\Users\johnr\source\repos\Egg\Egg\bin\Debug\Egg.exe.config
+C:\Users\johnr\source\repos\Egg\Egg\bin\Debug\Egg.exe
+C:\Users\johnr\source\repos\Egg\Egg\bin\Debug\Egg.pdb
+C:\Users\johnr\source\repos\Egg\Egg\obj\Debug\Egg.csproj.AssemblyReference.cache
+C:\Users\johnr\source\repos\Egg\Egg\obj\Debug\Egg.csproj.SuggestedBindingRedirects.cache
+C:\Users\johnr\source\repos\Egg\Egg\obj\Debug\Egg.csproj.CoreCompileInputs.cache
+C:\Users\johnr\source\repos\Egg\Egg\obj\Debug\Egg.exe
+C:\Users\johnr\source\repos\Egg\Egg\obj\Debug\Egg.pdb
